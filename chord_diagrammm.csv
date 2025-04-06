@@ -1,0 +1,24 @@
+A,B,weight
+alfajores,tea,2
+bread,pastry,2
+cake,coffee,5
+cake,hot chocolate,4
+cake,juice,2
+cake,tea,3
+coffee,hot chocolate,2
+coffee,keeping it local,2
+coffee,pastry,4
+coffee,salad,2
+coffee,sandwich,2
+coffee,toast,2
+coke,sandwich,4
+cookies,hot chocolate,4
+cookies,juice,2
+juice,sandwich,2
+juice,tea,4
+medialuna,pastry,3
+sandwich,soup,3
+sandwich,tea,4
+scone,tea,3
+soup,tea,3
+tea,toast,2
