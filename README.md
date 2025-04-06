@@ -1,4 +1,4 @@
-# Market Basket Analysis for Retail Optimization
+# Basket Analysis with Apriori Algorithm
 
 ## Project Description
 This project implements market basket analysis using the Apriori algorithm to uncover product association patterns in retail transaction data. The analysis identifies frequently co-purchased items and generates actionable business insights to optimize sales strategies.
